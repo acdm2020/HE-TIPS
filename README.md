@@ -4,7 +4,7 @@ Code used for analysis of untargeted metabolomics data from peripheral and hepat
 
 ## Instructions on Data Access
 Untargeted metabolomics data is available on MassIVE database [https://massive.ucsd.edu/] under the MassIVE ID MSV000090443.
-Feature based molecular networking data is available on [GNPS] (https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=8068b7cb58f2465f97a15b3ce30d593c).
+Feature based molecular networking data is available on [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=8068b7cb58f2465f97a15b3ce30d593c).
 
 ## Organization of files
 
