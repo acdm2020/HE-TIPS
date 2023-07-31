@@ -14,10 +14,10 @@ All data used for analysis is available under `./data`
 ### Data Analysis
 There are 4 main files that contain several analysis steps for this project under `./code` :
 
-`deicode.sh` - code and analysis used for parts of figures 1-2 
-`main_Fig1-2.R` - code and analysis used for generating results and figures 1-2
-`main_Fig3-5.R` -  code and analysis used for generating results and figures 3-5
-`function_lcms.R` - functions used in main R files
+- `deicode.sh` - code and analysis used for parts of figures 1-2.
+- `main_Fig1-2.R` - code and analysis used for generating results and figures 1-2.
+- `main_Fig3-5.R` -  code and analysis used for generating results and figures 3-5.
+- `function_lcms.R` - functions used in main R files.
 
 
 ## Citation
